@@ -1,0 +1,12 @@
+@font-face {
+font-family: 'Ultimate Chaos Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Ultimate Chaos Regular'), url('Ultimate Chaos.woff') format('woff');
+}
+
+h1 {
+	font-family: 'Ultimate Chaos Regular';
+	color: #003366;
+	font-weight: 50;
+}
